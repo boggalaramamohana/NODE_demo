@@ -1,4 +1,3 @@
-
 $script = <<SCRIPT
 # Update apt and get dependencies
 sudo apt-get update
